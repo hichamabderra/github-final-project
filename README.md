@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/simple-interest-calculator.git
+   git clone https://github.com/hichamabderra/simple-interest-calculator.git
    ```
 2. **Navigate into the directory:**
    ```bash
